@@ -12,8 +12,8 @@ void setup() {
   // Close all blinds when start
   blindClosed = true;
   // close the blind
-  analogWrite(2, 0);
-  Serial.println("Closing Blind/Writing LOW");
+  analogWrite(2, 255);
+  Serial.println("Closing Blind");
   
 }
 
@@ -26,16 +26,16 @@ void loop() {
   {
     blindClosed = false;
     // open the blind
-    analogWrite(2, 255);
-    Serial.println("Opening Blind/Writing HIGH");
+    analogWrite(2, 0);
+    Serial.println("Opening Blind");
   }
   // Close the blind when it's dark or really bright outside and the blind is opened
   else if ((sensorValue < 350 || sensorValue > 1000) && blindClosed == false)
   {
     blindClosed = true;
     // close the blind
-    analogWrite(2, 0);
-    Serial.println("Closing Blind/Writing LOW");
+    analogWrite(2, 255);
+    Serial.println("Closing Blind");
   }
 
   
