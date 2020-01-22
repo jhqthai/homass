@@ -1,4 +1,4 @@
-# Homass - The Home Assitance Project
+# Homass - The Home Assistant Project
 ## Project Summary
 The goal of this project is to create a home assistance.
 
