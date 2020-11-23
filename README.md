@@ -30,3 +30,25 @@ Receive user input and perform action
 ## Details
 The project is split into smaller project according the the activities. Information about each small project are available in their folder.
 
+------------
+# Project 1 - Control Hub
+The contorl hub can be view as the central controller of the smart devices.
+It shall 
+1. Receive information from user
+2. Receive information from smart devices
+3. Send commands to smart devices
+
+## Hardware
+1. Raspberry Pi3 - The brain
+2. CC2531 USB Transceiver - Bluetooth
+
+## Software
+1. Linux with someother stuff on top... Unsure, will update when start
+2. HomeAssistance
+
+
+## Protocol
+- Zigbee
+- TBA
+
+
