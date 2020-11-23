@@ -1,0 +1,7 @@
+23.11.20
+    - Learning how to set raspberry pi3 as server (IOTstack method); this includes using docker
+    https://www.youtube.com/watch?v=a6mjt8tWUws&ab_channel=AndreasSpiess
+
+
+https://www.youtube.com/watch?v=RguRQUXWLCY&list=PLDoIcTNj_voUJrfQ2L6kvnm6OyyHT0y2t&index=29&t=2s&ab_channel=NotEnoughTECH
+https://www.youtube.com/watch?v=KJRMjUzlHI8&list=PLHo_EQNSJX9q5UejsEucGnsb0g-zG75I_&index=8&t=15s&ab_channel=AndreasSpiess
