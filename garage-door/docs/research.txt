@@ -1,0 +1,7 @@
+- ESP module relevant information
+https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/
+https://www.elecrow.com/esp8266-esp-01-esp-01s-relay-wifi-smart-control-module-for-arduino.html
+
+- Communication with Alexa
+https://hackaday.com/2016/11/23/alexa-make-my-esp8266-do-something/
+
